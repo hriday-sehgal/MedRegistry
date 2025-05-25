@@ -5,7 +5,7 @@ A comprehensive, frontend-only patient registration and management application b
 ## Features
 
 - **Patient Registration**: Complete patient registration with comprehensive medical information
-- **Data Persistence**: Reliable local storage using PGlite 
+- **Data Persistence**: Reliable local storage using PGlite
 - **SQL Query Interface**: Raw SQL query capabilities for advanced data analysis
 - **Multi-tab Synchronization**: Real-time data synchronization across browser tabs
 - **Export Functionality**: CSV export of query results
@@ -111,9 +111,10 @@ CREATE TABLE patients (
 );
 ```
 
-##  Deployment
+## Deployment
 
 ### Vercel Deployment
+
 - The application is deployed using vercel on https://medregistry.vercel.app/
 
 ## Development Challenges & Solutions
@@ -137,11 +138,18 @@ CREATE TABLE patients (
 - **HIPAA-Conscious Design**: Built with healthcare privacy principles in mind
 - **Secure by Default**: No authentication needed as data is local only
 
+## Development Documentation
+
+For a detailed breakdown of features implemented in this project, please refer to the [Commit_Documentation.md](./Commit_Documentation.md) file. This document provides a chronological history of feature development and improvements, formatted as a commit history.
+
 ## Copyright Disclaimer
+
 Copyright © 2025 Hriday Sehgal. All rights reserved.
 
 This project and its source code are the proprietary intellectual property of Hriday Sehgal. Unauthorized copying, modification, distribution, or reproduction in any form without explicit permission is strictly prohibited.
 
 ## Contact
+
 For inquiries or collaborations, reach out via:
+
 - **Email**: hriday.career@gmail.com
