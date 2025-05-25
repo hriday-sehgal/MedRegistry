@@ -17,19 +17,6 @@ const Footer = () => {
               </span>
             </Link>
           </div>
-
-          <div className="mt-8 md:mt-0">
-            <div className="flex justify-center md:justify-end space-x-6">
-              <a
-                href="https://github.com"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-gray-500 hover:text-blue-600"
-              >
-                <Github className="h-5 w-5" />
-              </a>
-            </div>
-          </div>
         </div>
 
         <div className="mt-8 border-t border-gray-200 pt-6">
