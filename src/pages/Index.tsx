@@ -75,7 +75,7 @@ const Index = () => {
           <div className="flex flex-col md:flex-row items-center justify-between">
             <div className="text-center md:text-left md:w-1/2 mb-12 md:mb-0">
               <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-6 leading-tight">
-                <span className="block text-blue-200">Advanced Healthcare</span>
+                <span className="block">Advanced Healthcare</span>
                 <span className="block">Data Management</span>
               </h1>
               <p className="text-xl md:text-2xl mb-8 text-blue-100 max-w-xl">
