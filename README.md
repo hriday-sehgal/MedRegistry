@@ -1,4 +1,4 @@
-# MedRegisrty - A Patient Registration System
+# MedRegistry - A Patient Registration System
 
 A comprehensive, frontend-only patient registration and management application built with React, TypeScript, and PGlite for secure local data storage.
 
