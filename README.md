@@ -9,7 +9,7 @@ A comprehensive, frontend-only patient registration and management application b
 - **SQL Query Interface**: Raw SQL query capabilities for advanced data analysis
 - **Multi-tab Synchronization**: Real-time data synchronization across browser tabs
 - **Export Functionality**: CSV export of query results
-- **Search & Filter**: Advanced patient search and filtering capabilities
+- **Search & Filter**: Patient search and filtering capabilities
 
 ## Technology Stack
 
@@ -121,11 +121,13 @@ CREATE TABLE patients (
 ### Challenge 1: PGlite Integration
 
 **Problem**: Integrating PGlite with React and ensuring proper initialization
+
 **Solution**: Created a dedicated DatabaseContext with proper async initialization and error handling
 
 ### Challenge 2: Multi-tab Synchronization
 
 **Problem**: Keeping data synchronized across multiple browser tabs
+
 **Solution**: Implemented localStorage event listeners combined with custom events for real-time updates
 
 ## Security & Privacy
