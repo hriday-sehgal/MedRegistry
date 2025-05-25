@@ -22,7 +22,7 @@ feature: Initial project setup with React, TypeScript, and Tailwind
 
 ```
 Author: Hriday Sehgal
-Date: 202-05-22
+Date: 2025-05-22
 
 feature: Implement patient registration system
 
